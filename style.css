@@ -6,6 +6,17 @@
 
 #titleBarDiv {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+a:link {
+    text-decoration: none;
+    color: green;
+}
+
+a:visited {
+    text-decoration: none;
+    color: green;
+
 }
 #title {
     font-style: italic;
@@ -23,4 +34,11 @@
 .products {
     display: flex;
     justify-content: space-between;
+}
+
+.productType {
+    font-size: 26pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
 }
