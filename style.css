@@ -1,6 +1,12 @@
-#inner {
+#titleBarDiv, #searchBarDiv {
     color: green;
+    display: inline-block;
 }
+
+#searchBarDiv {
+    float: right;
+}
+
 #nav {
     color: rgb(52, 52, 52);
 }
