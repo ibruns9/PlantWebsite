@@ -1,3 +1,6 @@
-#div2 {
-    color: red;
+#inner {
+    color: green;
+}
+#nav {
+    color: rgb(52, 52, 52);
 }
