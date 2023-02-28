@@ -1,10 +1,19 @@
 #titleBarDiv, #searchBarDiv {
     color: green;
     display: inline-block;
+    
 }
 
+#titleBarDiv {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#title {
+    font-style: italic;
+}
 #searchBarDiv {
     float: right;
+    font-size: 10pt;
+    
 }
 
 #nav {
